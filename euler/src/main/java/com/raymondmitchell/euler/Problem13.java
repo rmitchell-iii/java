@@ -114,7 +114,7 @@ class Problem13 {
 
         return Arrays.stream(numbers)
                 .map(BigInteger::new)
-                .reduce(new BigInteger("0"), BigInteger::add)
+                .reduce(BigInteger.ZERO, BigInteger::add)
                 .toString()
                 .substring(0, 10);
     }
