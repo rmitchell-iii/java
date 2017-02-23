@@ -1,6 +1,0 @@
--classpath 'E:\\Source\\java\\euler\\build\\classes\\main;E:\\Source\\java\\euler\\build\\resources\\main'
--d 'E:\\Source\\java\\euler\\build\\docs\\javadoc'
--doctitle 'euler 1.0-SNAPSHOT API'
--quiet 
--windowtitle 'euler 1.0-SNAPSHOT API'
-'E:\\Source\\java\\euler\\src\\main\\java\\com\\raymondmitchell\\euler\\Problem13.java'
